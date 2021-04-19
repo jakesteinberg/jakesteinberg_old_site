@@ -287,8 +287,8 @@ body {
 }
 
 @media screen and (max-width: 1199px) and (min-width: 1140px) {
-	.container { width: 1080px; }
-	.tm-sidebar { width: 300px; }
+	.container { width: 1000px; }
+	.tm-sidebar { width: 250px; }
 	.tm-main-content { margin-left: auto; }
 	.tm-team-description-container { max-width: 330px; }	
 }
